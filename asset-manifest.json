@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Farmolic/static/css/main.f07c26e5.chunk.css",
+    "main.js": "/Farmolic/static/js/main.9e4df25b.chunk.js",
+    "main.js.map": "/Farmolic/static/js/main.9e4df25b.chunk.js.map",
+    "runtime-main.js": "/Farmolic/static/js/runtime-main.d564b551.js",
+    "runtime-main.js.map": "/Farmolic/static/js/runtime-main.d564b551.js.map",
+    "static/css/2.0945dd6c.chunk.css": "/Farmolic/static/css/2.0945dd6c.chunk.css",
+    "static/js/2.494deac6.chunk.js": "/Farmolic/static/js/2.494deac6.chunk.js",
+    "static/js/2.494deac6.chunk.js.map": "/Farmolic/static/js/2.494deac6.chunk.js.map",
+    "static/js/3.f08edbd3.chunk.js": "/Farmolic/static/js/3.f08edbd3.chunk.js",
+    "static/js/3.f08edbd3.chunk.js.map": "/Farmolic/static/js/3.f08edbd3.chunk.js.map",
+    "index.html": "/Farmolic/index.html",
+    "static/css/2.0945dd6c.chunk.css.map": "/Farmolic/static/css/2.0945dd6c.chunk.css.map",
+    "static/css/main.f07c26e5.chunk.css.map": "/Farmolic/static/css/main.f07c26e5.chunk.css.map",
+    "static/js/2.494deac6.chunk.js.LICENSE.txt": "/Farmolic/static/js/2.494deac6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d564b551.js",
+    "static/css/2.0945dd6c.chunk.css",
+    "static/js/2.494deac6.chunk.js",
+    "static/css/main.f07c26e5.chunk.css",
+    "static/js/main.9e4df25b.chunk.js"
+  ]
+}
